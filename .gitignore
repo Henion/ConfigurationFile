@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files
+!.gitignore
+!_vimrc
+!.gitconfig
+
+#...even if the are in subdirectories
+#!*/
